@@ -1,0 +1,35 @@
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.exe
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.deps.json
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.runtimeconfig.json
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.csproj.GenerateResource.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfo.cs
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.genruntimeconfig.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.Properties.Resources.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.exe
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.deps.json
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.runtimeconfig.json
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.Properties.Resources.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.csproj.GenerateResource.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.AssemblyInfo.cs
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.pdb
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AutoClicker.genruntimeconfig.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\AutoClicker.dll
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\MouseRecorderApp.Form1.resources

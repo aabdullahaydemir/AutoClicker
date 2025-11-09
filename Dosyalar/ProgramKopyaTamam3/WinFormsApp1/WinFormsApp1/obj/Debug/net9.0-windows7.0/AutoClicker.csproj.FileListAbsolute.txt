@@ -1,0 +1,7 @@
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\MouseRecorderApp.Form1.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.Properties.Resources.resources
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.csproj.GenerateResource.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.AssemblyInfo.cs
+C:\Users\TS_61\Desktop\Program Kopya Tamam 3\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows7.0\AutoClicker.csproj.CoreCompileInputs.cache
